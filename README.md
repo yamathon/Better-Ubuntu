@@ -11,6 +11,7 @@ A script to improve the usability of Ubuntu.
 ## IMPORTANT
 You need the apt2nala text file in the same directory as the script file.
 
-Sources:
+Sources:  
+https://gitlab.com/volian/nala#nala  
 https://christitus.com/stop-using-apt/  
 https://haydenjames.io/remove-snap-ubuntu-22-04-lts/
