@@ -76,9 +76,9 @@ sudo nala fetch
 echo "[*] Adding useful aliases..."
 sleep 1
 cat apt2nala.txt >> ~/.bashrc
-cat apt2nala.txt >> /root/.bashrc
+sudo cat apt2nala.txt >> /root/.bashrc
 echo "alias sudo='sudo '" >> ~/.bashrc
-echo "alias sudo=' sudo '" >> /root/.bashrc
+sudo echo "alias sudo=' sudo '" >> /root/.bashrc
 
 echo "Alright, all done."
 
